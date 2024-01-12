@@ -224,6 +224,16 @@ button {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+#tesi_part .carousel-item h5{
+    text-align: left;
+    font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+#tesi_part .carousel-item p{
+    text-align: left;
+    margin-bottom: 60px;
+}
 /*========================
     testi part end
 ==========================*/
